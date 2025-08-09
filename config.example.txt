@@ -1,0 +1,18 @@
+// Example for Java Edition:
+// {
+//   "edition": "java",
+//   "host": "mc.hypixel.net",
+//   "port": 25565,
+//   "username": "your_username_or_email",
+//   "password": "your_password_if_needed_or_blank_for_cracked",
+//   "autoReconnect": true
+// }
+//
+// Example for Bedrock Edition:
+// {
+//   "edition": "bedrock",
+//   "host": "bedrock.example.com",
+//   "port": 19132,
+//   "username": "YourBedrockName",
+//   "autoReconnect": true
+// }
